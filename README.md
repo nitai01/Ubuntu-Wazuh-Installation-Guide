@@ -117,6 +117,8 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 <img width="1272" height="279" alt="u13" src="https://github.com/user-attachments/assets/ca34df53-a24b-4b9a-b4f1-195adcece288" />
 
+<img width="1274" height="666" alt="u14" src="https://github.com/user-attachments/assets/b7276b31-bc78-48de-a6d9-d2dfac24a05d" />
+
 ---
 
 ### 4 — Post-Installation Login & SSH Access
