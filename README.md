@@ -130,7 +130,11 @@ Walked through the full Ubuntu Server text-based installer — language, install
 Logged into the server directly from the VirtualBox console, then connected remotely using PuTTY over SSH.
 
 
-![Uploading w5.png…]()
+
+<img width="867" height="585" alt="w5" src="https://github.com/user-attachments/assets/208656f8-f82f-45df-8edb-4b8a457b01b6" />
+
+
+<img width="1600" height="676" alt="w2" src="https://github.com/user-attachments/assets/083a18f2-8d03-4d3c-9a4d-ce77d2a31993" />
 
 
 ---
