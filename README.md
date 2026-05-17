@@ -99,7 +99,8 @@ Configured the VM with name, ISO image path, OS type (Linux / Ubuntu 64-bit), RA
 
 Walked through the full Ubuntu Server text-based installer — language, install type, network, proxy, mirror, and storage layout.
 
-![GRUB Boot Menu](screenshots/5.png)
+<img width="1313" height="692" alt="u6" src="https://github.com/user-attachments/assets/54e69cb6-5590-41f9-887d-5f7fea8cfed9" />
+
 ![Language Selection — English](screenshots/6.png)
 ![Installation Type — Ubuntu Server](screenshots/7.png)
 ![Network Configuration — DHCPv4](screenshots/8.png)
