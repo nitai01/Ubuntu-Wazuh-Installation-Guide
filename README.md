@@ -175,7 +175,11 @@ Navigated to ⁠ https://192.168.1.20 ⁠ from the host browser. Bypassed th
 Confirmed all three Wazuh components are active and running via ⁠ systemctl ⁠.
 
 
-![Uploading w6.png…]()
+
+<img width="1314" height="578" alt="w6" src="https://github.com/user-attachments/assets/e07ca564-b46a-4cbd-8b1f-9775824210ce" />
+
+![Uploading w7.png…]()
+
 
 ---
 
