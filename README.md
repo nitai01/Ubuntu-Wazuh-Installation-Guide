@@ -145,10 +145,8 @@ Logged into the server directly from the VirtualBox console, then connected remo
 
 Installed Java (required dependency), downloaded the official Wazuh install script, and ran the all-in-one deployment which provisions the Manager, Indexer, and Dashboard in a single pass.
 
-![Installing Java JDK](screenshots/14.png)
-![Downloading wazuh-install.sh](screenshots/15.png)
-![Wazuh Installation in Progress](screenshots/16.png)
-![Installation Complete — Credentials Displayed](screenshots/17.png)
+
+<img width="759" height="430" alt="w11" src="https://github.com/user-attachments/assets/9ac38e06-3793-4051-98ca-0d93ac9cd89a" />
 
 ---
 
