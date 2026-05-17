@@ -75,7 +75,7 @@ Deploy and configure *Wazuh 4.12.0* — an open-source Security Information and 
 
 Downloaded Ubuntu Server 22.04.5 LTS from the official Canonical website.
 
-![Ubuntu ISO Download](screenshots/1.png)
+<img width="1427" height="637" alt="u1" src="https://github.com/user-attachments/assets/6daad598-6b55-4601-8797-9da8f1d3dac3" />
 
 ---
 
