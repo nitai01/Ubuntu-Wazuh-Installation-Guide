@@ -132,6 +132,7 @@ Logged into the server directly from the VirtualBox console, then connected remo
 
 ![Uploading w5.png…]()
 
+
 ---
 
 ### 5 — Wazuh Installation
