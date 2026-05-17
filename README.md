@@ -154,7 +154,9 @@ Installed Java (required dependency), downloaded the official Wazuh install scri
 
 Confirmed the VM's IP address (⁠ 192.168.1.20 ⁠) using ⁠ ip a ⁠ to ensure it is reachable from the host browser.
 
-![IP Address Verification](screenshots/18.png)
+
+<img width="815" height="207" alt="w22" src="https://github.com/user-attachments/assets/1ad2a6e2-2a60-4ea1-8051-719c19d13e81" />
+
 
 ---
 
