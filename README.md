@@ -88,7 +88,7 @@ Configured the VM with name, ISO image path, OS type (Linux / Ubuntu 64-bit), RA
 ![Uploading u2.png…]()
 
 
-![Uploading u3.png…]()
+
 
 
 ---
