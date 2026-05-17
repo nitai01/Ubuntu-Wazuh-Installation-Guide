@@ -101,7 +101,8 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 <img width="1313" height="692" alt="u6" src="https://github.com/user-attachments/assets/54e69cb6-5590-41f9-887d-5f7fea8cfed9" />
 
-![Language Selection — English](screenshots/6.png)
+<img width="1265" height="764" alt="u7" src="https://github.com/user-attachments/assets/a54be1c4-7b83-43ec-8d27-7aef7211655c" />
+
 ![Installation Type — Ubuntu Server](screenshots/7.png)
 ![Network Configuration — DHCPv4](screenshots/8.png)
 ![Proxy Configuration — None](screenshots/9.png)
