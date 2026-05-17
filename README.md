@@ -105,7 +105,8 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 <img width="1235" height="585" alt="u8" src="https://github.com/user-attachments/assets/80e95003-ec56-4878-8bb9-2d931f0fa054" />
 
-![Network Configuration — DHCPv4](screenshots/8.png)
+<img width="1089" height="551" alt="u9" src="https://github.com/user-attachments/assets/2afa6e66-f7ec-4e1c-9a16-575caed61161" />
+
 ![Proxy Configuration — None](screenshots/9.png)
 ![Archive Mirror — archive.ubuntu.com](screenshots/10.png)
 ![Guided Storage Layout](screenshots/11.png)
