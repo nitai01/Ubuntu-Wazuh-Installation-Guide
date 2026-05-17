@@ -107,10 +107,8 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 <img width="1089" height="551" alt="u9" src="https://github.com/user-attachments/assets/2afa6e66-f7ec-4e1c-9a16-575caed61161" />
 
-![Proxy Configuration — None](screenshots/9.png)
-![Archive Mirror — archive.ubuntu.com](screenshots/10.png)
-![Guided Storage Layout](screenshots/11.png)
-![Storage Summary — ext4 on /](screenshots/12.png)
+<img width="1171" height="466" alt="u10" src="https://github.com/user-attachments/assets/f84a0ed3-9946-4d45-8027-9a019a408a4c" />
+
 
 ---
 
