@@ -121,7 +121,9 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 <img width="1265" height="390" alt="u15" src="https://github.com/user-attachments/assets/a7fd3deb-7ea8-4f12-b82e-6d17e3e3c4ec" />
 
-![Uploading u16.png…]()
+
+![Uploading w8.png…]()
+
 
 ---
 
