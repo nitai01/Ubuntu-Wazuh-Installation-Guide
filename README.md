@@ -174,9 +174,8 @@ Navigated to ⁠ https://192.168.1.20 ⁠ from the host browser. Bypassed th
 
 Confirmed all three Wazuh components are active and running via ⁠ systemctl ⁠.
 
-![Wazuh Manager — Active (running)](screenshots/24.png)
-![Wazuh Indexer — Active (running)](screenshots/25.png)
-![Wazuh Dashboard — Active (running)](screenshots/26.png)
+
+![Uploading w6.png…]()
 
 ---
 
