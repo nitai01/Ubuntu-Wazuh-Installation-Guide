@@ -89,7 +89,7 @@ Configured the VM with name, ISO image path, OS type (Linux / Ubuntu 64-bit), RA
 
 <img width="540" height="535" alt="u4" src="https://github.com/user-attachments/assets/55479e35-ba2f-4b9e-83c3-6836154061aa" />
 
-
+<img width="520" height="556" alt="u5" src="https://github.com/user-attachments/assets/528e36a1-91e9-41f3-9f83-3ca353e6f314" />
 
 
 
