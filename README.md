@@ -110,6 +110,9 @@ Walked through the full Ubuntu Server text-based installer — language, install
 <img width="1171" height="466" alt="u10" src="https://github.com/user-attachments/assets/f84a0ed3-9946-4d45-8027-9a019a408a4c" />
 
 
+<img width="1152" height="650" alt="u11" src="https://github.com/user-attachments/assets/c1633e9e-7940-473d-b1d0-378239a9e2d0" />
+
+
 ---
 
 ### 4 — Post-Installation Login & SSH Access
