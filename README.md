@@ -85,8 +85,11 @@ Configured the VM with name, ISO image path, OS type (Linux / Ubuntu 64-bit), RA
 
 <img width="671" height="573" alt="u2" src="https://github.com/user-attachments/assets/ad63210b-74bb-4190-af7e-b5801d0dca2f" />
 
-![Hardware — RAM & CPU](screenshots/3.png)
-![Hard Disk — 25 GB VDI](screenshots/4.png)
+![Uploading u2.png…]()
+
+
+![Uploading u3.png…]()
+
 
 ---
 
