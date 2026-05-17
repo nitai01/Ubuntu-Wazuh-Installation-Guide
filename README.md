@@ -161,6 +161,8 @@ Navigated to ⁠ https://192.168.1.20 ⁠ from the host browser. Bypassed th
 
 <img width="1600" height="678" alt="w1" src="https://github.com/user-attachments/assets/4a0f6cd5-f7f7-4dac-8536-f8a940bb25c8" />
 
+<img width="1600" height="899" alt="w3" src="https://github.com/user-attachments/assets/8df46e0c-8f89-4dad-aa99-622489d6fa24" />
+
 
 ---
 
