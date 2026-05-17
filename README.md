@@ -103,7 +103,8 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 <img width="1265" height="764" alt="u7" src="https://github.com/user-attachments/assets/a54be1c4-7b83-43ec-8d27-7aef7211655c" />
 
-![Installation Type — Ubuntu Server](screenshots/7.png)
+<img width="1235" height="585" alt="u8" src="https://github.com/user-attachments/assets/80e95003-ec56-4878-8bb9-2d931f0fa054" />
+
 ![Network Configuration — DHCPv4](screenshots/8.png)
 ![Proxy Configuration — None](screenshots/9.png)
 ![Archive Mirror — archive.ubuntu.com](screenshots/10.png)
