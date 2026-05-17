@@ -129,9 +129,8 @@ Walked through the full Ubuntu Server text-based installer — language, install
 
 Logged into the server directly from the VirtualBox console, then connected remotely using PuTTY over SSH.
 
-![First Login — Ubuntu Console](screenshots/13.png)
-![PuTTY — Host Configuration (192.168.1.20 :22)](screenshots/22.png)
-![PuTTY — Successful SSH Session](screenshots/23.png)
+
+![Uploading w5.png…]()
 
 ---
 
