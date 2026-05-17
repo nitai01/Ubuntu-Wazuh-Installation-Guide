@@ -178,7 +178,11 @@ Confirmed all three Wazuh components are active and running via ⁠ systemctl�
 
 <img width="1314" height="578" alt="w6" src="https://github.com/user-attachments/assets/e07ca564-b46a-4cbd-8b1f-9775824210ce" />
 
-![Uploading w7.png…]()
+
+<img width="1451" height="370" alt="w7" src="https://github.com/user-attachments/assets/a8e120c3-ebf5-4639-a610-b0a2686d7b03" />
+
+
+<img width="1464" height="432" alt="w8" src="https://github.com/user-attachments/assets/2422b79d-ed06-4394-8059-2092a1fad669" />
 
 
 ---
